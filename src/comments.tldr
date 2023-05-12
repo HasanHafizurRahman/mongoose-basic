@@ -129,10 +129,10 @@
     },
     {
       "lastUsedInstanceId": "instance:aKE8LKbOiTWjwGPmM4T0h",
-      "lastActivityTimestamp": 1683884939069,
+      "lastActivityTimestamp": 1683885683724,
       "cursor": {
-        "x": 113.46875,
-        "y": 123.4765625,
+        "x": 130.46875,
+        "y": 186.4765625,
         "z": 0
       },
       "viewportPageBounds": {
@@ -171,11 +171,11 @@
       "followingUserId": null,
       "propsForNextShape": {
         "opacity": "1",
-        "color": "blue",
+        "color": "red",
         "labelColor": "black",
         "dash": "draw",
-        "fill": "none",
-        "size": "m",
+        "fill": "pattern",
+        "size": "xl",
         "icon": "file",
         "font": "draw",
         "align": "middle",
@@ -228,14 +228,14 @@
       "typeName": "instance_page_state"
     },
     {
-      "x": -380.8332278099373,
-      "y": 53.8046875,
+      "x": -369.8332278099373,
+      "y": 69.8046875,
       "rotation": 0,
       "isLocked": false,
       "type": "text",
       "props": {
         "opacity": "1",
-        "color": "black",
+        "color": "red",
         "size": "m",
         "w": 330.0625,
         "text": "inserting a test data into mongodb :\nStep 1 - Interface,\nStep 2 - Schema,\nStep 3 - Model,\nStep 4 - Database Query",
