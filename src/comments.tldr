@@ -1,0 +1,253 @@
+{
+  "tldrawFileFormatVersion": 1,
+  "schema": {
+    "schemaVersion": 1,
+    "storeVersion": 1,
+    "recordVersions": {
+      "asset": {
+        "version": 0,
+        "subTypeKey": "type",
+        "subTypeVersions": {
+          "image": 2,
+          "video": 2,
+          "bookmark": 0
+        }
+      },
+      "camera": {
+        "version": 0
+      },
+      "document": {
+        "version": 0
+      },
+      "instance": {
+        "version": 7
+      },
+      "instance_page_state": {
+        "version": 1
+      },
+      "page": {
+        "version": 0
+      },
+      "shape": {
+        "version": 1,
+        "subTypeKey": "type",
+        "subTypeVersions": {
+          "draw": 1,
+          "text": 1,
+          "line": 0,
+          "arrow": 1,
+          "image": 2,
+          "video": 1,
+          "geo": 3,
+          "note": 2,
+          "group": 0,
+          "bookmark": 1,
+          "embed": 1,
+          "frame": 0
+        }
+      },
+      "user": {
+        "version": 0
+      },
+      "user_document": {
+        "version": 2
+      },
+      "user_presence": {
+        "version": 1
+      }
+    }
+  },
+  "records": [
+    {
+      "gridSize": 10,
+      "id": "document:document",
+      "typeName": "document"
+    },
+    {
+      "isReadOnly": false,
+      "isPenMode": false,
+      "isGridMode": false,
+      "isDarkMode": false,
+      "isMobileMode": false,
+      "isSnapMode": false,
+      "lastUpdatedPageId": "page:oorGZgYKqk83MGVRrHNlv",
+      "lastUsedTabId": "instance:aKE8LKbOiTWjwGPmM4T0h",
+      "id": "user_document:pGYaSuolOLQ0i3lF-lijn",
+      "userId": "user:bp9XURrhIIyncIFMoCimC",
+      "typeName": "user_document"
+    },
+    {
+      "id": "page:oorGZgYKqk83MGVRrHNlv",
+      "name": "Page 1",
+      "index": "a1",
+      "typeName": "page"
+    },
+    {
+      "followingUserId": null,
+      "propsForNextShape": {
+        "opacity": "1",
+        "color": "blue",
+        "labelColor": "black",
+        "dash": "draw",
+        "fill": "none",
+        "size": "m",
+        "icon": "file",
+        "font": "draw",
+        "align": "middle",
+        "geo": "rectangle",
+        "arrowheadStart": "none",
+        "arrowheadEnd": "arrow",
+        "spline": "line"
+      },
+      "brush": null,
+      "scribble": null,
+      "cursor": {
+        "type": "default",
+        "color": "black",
+        "rotation": 0
+      },
+      "isFocusMode": false,
+      "exportBackground": true,
+      "isDebugMode": false,
+      "isToolLocked": false,
+      "screenBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1136,
+        "h": 463
+      },
+      "id": "instance:JxaezKu-Na3anfXldH6b5",
+      "userId": "user:bp9XURrhIIyncIFMoCimC",
+      "currentPageId": "page:oorGZgYKqk83MGVRrHNlv",
+      "typeName": "instance"
+    },
+    {
+      "name": "New User",
+      "locale": "en",
+      "id": "user:bp9XURrhIIyncIFMoCimC",
+      "typeName": "user"
+    },
+    {
+      "lastUsedInstanceId": "instance:aKE8LKbOiTWjwGPmM4T0h",
+      "lastActivityTimestamp": 1683884939069,
+      "cursor": {
+        "x": 113.46875,
+        "y": 123.4765625,
+        "z": 0
+      },
+      "viewportPageBounds": {
+        "x": -401.53125,
+        "y": -39.5234375,
+        "w": 1136,
+        "h": 463
+      },
+      "color": "#55B467",
+      "id": "user_presence:WzfkjwgAMybF7O13mAMvu",
+      "userId": "user:bp9XURrhIIyncIFMoCimC",
+      "typeName": "user_presence"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "id": "camera:IkRXavexw-kuPAU0QU4h4",
+      "typeName": "camera"
+    },
+    {
+      "editingId": null,
+      "croppingId": null,
+      "selectedIds": [],
+      "hoveredId": null,
+      "erasingIds": [],
+      "hintingIds": [],
+      "focusLayerId": null,
+      "id": "instance_page_state:Xll7TPcXrm0BAvU_Q4UK3",
+      "pageId": "page:oorGZgYKqk83MGVRrHNlv",
+      "instanceId": "instance:JxaezKu-Na3anfXldH6b5",
+      "cameraId": "camera:IkRXavexw-kuPAU0QU4h4",
+      "typeName": "instance_page_state"
+    },
+    {
+      "followingUserId": null,
+      "propsForNextShape": {
+        "opacity": "1",
+        "color": "blue",
+        "labelColor": "black",
+        "dash": "draw",
+        "fill": "none",
+        "size": "m",
+        "icon": "file",
+        "font": "draw",
+        "align": "middle",
+        "geo": "rectangle",
+        "arrowheadStart": "none",
+        "arrowheadEnd": "arrow",
+        "spline": "line"
+      },
+      "brush": null,
+      "scribble": null,
+      "cursor": {
+        "type": "default",
+        "color": "black",
+        "rotation": 0
+      },
+      "isFocusMode": false,
+      "exportBackground": true,
+      "isDebugMode": false,
+      "isToolLocked": false,
+      "screenBounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1136,
+        "h": 463
+      },
+      "id": "instance:aKE8LKbOiTWjwGPmM4T0h",
+      "userId": "user:bp9XURrhIIyncIFMoCimC",
+      "currentPageId": "page:oorGZgYKqk83MGVRrHNlv",
+      "typeName": "instance"
+    },
+    {
+      "x": 401.53125,
+      "y": 39.5234375,
+      "z": 1,
+      "id": "camera:IPUAEiijLcJhy29jaBS62",
+      "typeName": "camera"
+    },
+    {
+      "editingId": null,
+      "croppingId": null,
+      "selectedIds": [],
+      "hoveredId": null,
+      "erasingIds": [],
+      "hintingIds": [],
+      "focusLayerId": null,
+      "id": "instance_page_state:Ztri8IvXWPIITuMVHyds5",
+      "pageId": "page:oorGZgYKqk83MGVRrHNlv",
+      "instanceId": "instance:aKE8LKbOiTWjwGPmM4T0h",
+      "cameraId": "camera:IPUAEiijLcJhy29jaBS62",
+      "typeName": "instance_page_state"
+    },
+    {
+      "x": -380.8332278099373,
+      "y": 53.8046875,
+      "rotation": 0,
+      "isLocked": false,
+      "type": "text",
+      "props": {
+        "opacity": "1",
+        "color": "black",
+        "size": "m",
+        "w": 330.0625,
+        "text": "inserting a test data into mongodb :\nStep 1 - Interface,\nStep 2 - Schema,\nStep 3 - Model,\nStep 4 - Database Query",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": false,
+        "scale": 0.9897089564238624
+      },
+      "parentId": "page:oorGZgYKqk83MGVRrHNlv",
+      "index": "a1",
+      "id": "shape:fnebS10h2wE74FiRpNZp5",
+      "typeName": "shape"
+    }
+  ]
+}
