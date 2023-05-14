@@ -14,3 +14,7 @@ export interface IUser {
   emergencyContactNo: string;
   address: string;
 }
+
+export interface IUserMethods {
+  fullName(): string;
+}
